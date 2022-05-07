@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+$primary:   #2d0710;
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+section{
+    padding: 60px 0;
+}
+
+// Estilos nav
+.navbar-nav{
+    font-size: 18px;
+    margin-left: auto;
+}
+
+.tipografia{
+    font-family: 'Allura', cursive;
+    font-size: 40px;
+}
+
+// Banner
+.banner{
+    background-color: black ;
+}
+
+.color{
+    color: white;
+}
+
+.bannerContent > h1{
+    font-size: 60px;
+    font-weight: normal;
+    margin-bottom: 15px;
+    font-family: 'Allura', cursive;
+}
+
+.bannerContent > h2{
+    font-size: 23px;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+// Estilos tienda
+.tienda-text{
+    font-size: 30px;
+    font-weight: normal;
+}
+
+// Estilos formulario
+.title{
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.form-control{
+    position: relative;
+    margin-bottom: 7px;
+    padding-bottom: 20px;
+    border: none;
+}
+
+.form-control.ok input{
+    border:0.1 solid;
+    border-color: rgb(93, 201, 93);
+}
+
+.form-control p{
+    visibility: hidden;
+    position: absolute;
+    font-size: small;
+    font-weight: 500;
+    text-align: right;
+}
+
+.form-control.falla p{
+    visibility: visible;
+    color: rgb(238, 116, 116);
+}
+
+.form-control label{
+    display: inline-block;
+    margin-bottom: 7px;
+}
+
+.form-control.falla input{
+    border: 0.1px solid;
+    border-color: rgb(238, 116, 116);
+}

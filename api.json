@@ -1,0 +1,64 @@
+[
+    {
+        "titulo": "Luigi Bosca - Malbec",
+        "precio": 2300,
+        "imagen": "media/2.png",
+        "id": 1
+    },
+
+    {
+        "titulo": "Luigi Bosca La Linda - Malbec",
+        "precio": 8000,
+        "imagen": "media/3.png",
+        "id":2
+    },
+
+    {
+        "titulo": "Luigi Bosca De Sangre - Malbec",
+        "precio": 3700,
+        "imagen": "media/1.png",
+        "id":3
+    },
+
+    {
+        "titulo": "Luigi Bosca Los Nobles - Malbec",
+        "precio": 7800,
+        "imagen": "media/4.png",
+        "id":4
+    },
+
+    {
+        "titulo": "Luigi Bosca 1901 2021 - Malbec",
+        "precio": 7800,
+        "imagen": "media/5.png",
+        "id":5
+    },
+
+    {
+        "titulo": "Luigi Bosca - Cabernet",
+        "precio": 2500,
+        "imagen": "media/6.png",
+        "id":6
+    },
+
+    {
+        "titulo": "Luigi Bosca Paraíso",
+        "precio": 15000,
+        "imagen": "media/7.png",
+        "id":7
+    },
+
+    {
+        "titulo": "Luigi Bosca Icono 2010",
+        "precio": 30000,
+        "imagen": "media/8.png",
+        "id":8
+    },
+
+    {
+        "titulo": "Luigi Bosca De Sangre - Red Blend",
+        "precio": 2500,
+        "imagen": "media/9.png",
+        "id":9
+    }
+]
