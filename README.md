@@ -6,4 +6,4 @@
 
 -HTML -SASS -BOOTSTRAP -JAVASCRIPT -GIT
 
-Pueden ingresar aquí a ver el site: https://florcamila.github.io/Bonvivant-final/
+Pueden ingresar aquí a ver el site: https://florlioi.github.io/Bonvivant-final/
